@@ -24,7 +24,8 @@
         android:id="@+id/button_voice"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom"/>
-</FrameLayout>
+        android:layout_gravity="bottom"
+        android:src="@android:drawable/ic_menu_add" />
+    </FrameLayout>
 
 </android.support.wearable.view.BoxInsetLayout>
